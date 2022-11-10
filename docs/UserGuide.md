@@ -103,10 +103,6 @@ learning to use FABook! However, feel free to jump to any particular section usi
 
 [Return to Table of Contents](#table-of-contents)
 
---------------------------------------------------------------------------------------------------------------------
-
-<div style="page-break-after: always;"></div>
-
 ## Features
 
 <div markdown="block" class="alert alert-warning">
@@ -700,8 +696,6 @@ If your changes to the data file makes its format invalid, FABook will discard a
 
 <div style="page-break-after: always;"></div>
 
---------------------------------------------------------------------------------------------------------------------
-
 ## FAQ
 
 **Q**: How do I transfer my data to another computer?<br>
@@ -730,6 +724,8 @@ If your changes to the data file makes its format invalid, FABook will discard a
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## Glossary
 
 | Term                     | Definition                                                                                                                                                                                                                                                                           |
@@ -747,6 +743,7 @@ If your changes to the data file makes its format invalid, FABook will discard a
 
 [Return to Table of Contents](#table-of-contents)
 
+<div style="page-break-after: always;"></div>
 
 ## Command summary
 
