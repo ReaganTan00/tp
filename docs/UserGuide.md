@@ -86,8 +86,6 @@ learning to use FABook! However, feel free to jump to any particular section usi
 
 [Return to Table of Contents](#table-of-contents)
 
---------------------------------------------------------------------------------------------------------------------
-
 <div style="page-break-after: always;"></div>
 
 ## Getting Familiar With Your User Interface
@@ -102,6 +100,10 @@ learning to use FABook! However, feel free to jump to any particular section usi
 6. **Data Storage**: This is where the data is stored and loaded from.
 
 [Return to Table of Contents](#table-of-contents)
+
+--------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## Features
 
