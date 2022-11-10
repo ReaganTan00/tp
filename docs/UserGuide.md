@@ -1,7 +1,9 @@
 ---
 layout: page
-title: User Guide
+title: FABook User Guide
 ---
+
+# Welcome to FABook!
 
 FABook is your **dependable assistant** who **reminds you of meetings** and **consolidates crucial information** like financial plans and client information right at your fingertips! You can now focus on giving your full attention to your clients without having to worry about things slipping your mind.
 
@@ -19,52 +21,13 @@ This user guide will help you get started and understand how FABook can **seamle
 <div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
+## How to use this guide?
 
-## Quick start
+### Organisation
+We intended for the user guide to be read from a top-down manner for you to first familiarise with any conventions or terminologies used before
+learning to use FABook! However, feel free to jump to any particular section using the [Table of Contents!](#table-of-contents)
 
-1. Ensure you have Java `11` or above installed in your Computer.
-
-2. Download the latest `FABook.jar` [here](https://github.com/AY2223S1-CS2103T-T10-2/tp/releases).
-
-3. Copy the file to the folder you want to use as the _home folder_ for your FABook.
-
-4. Double-click the file to start the app. The GUI similar to below should appear in a few seconds. Note how the app contains some sample data.<br>
-   ![Ui](images/Ui.png)
-
-5. Type the command in the command line and press Enter to execute it. e.g. typing **`help`** and pressing Enter will open the help window.<br>
-   Some example commands you can try:
-
-   * **`list`** : Lists all clients.
-
-   * **`create`**`n/John Doe p/98765432 a/John street, block 123, #01-01` : Adds a client named `John Doe` to your FABook.
-
-   * **`exit`** : Exits the app.
-
-6. Refer to the [Features](#features) below for details of each command.
-7. Refer to the [Command Summary](#command-summary) for a quick summary of all commands.
-
-[Return to Table of Contents](#table-of-contents)
-
---------------------------------------------------------------------------------------------------------------------
-
-## Getting Familiar With Your User Interface
-
-![Ui Breakdown](images/UIBreakDown.png)
-
-1. **Menu Bar**: Access the file, help or upcoming meetings here.
-2. **Command Line**: Type in your commands here.
-3. **Command Display**: The execution of your commands appear here.
-4. **Result Display**: The result of your command execution appears here.
-5. **Contact Information**: The full contact information of a client appears here.
-6. **Data Storage**: This is where the data is stored and loaded from.
-
-[Return to Table of Contents](#table-of-contents)
-
-<div style="page-break-after: always;"></div>
-
---------------------------------------------------------------------------------------------------------------------
-
-## Legend
+### Legend
 * Text in [blue](#legend) are hyperlinks that direct you to the relevant section of the page or to other websites 
 * Text in **bold** are used to emphasize important details to look out for or to distinguish headers from the rest of the text
 * Text in `code snippets such as this` are used to show inputs and their format
@@ -92,6 +55,50 @@ This user guide will help you get started and understand how FABook can **seamle
 * :information_source: **Information**
 
 </div>
+
+--------------------------------------------------------------------------------------------------------------------
+
+## Quick start
+
+1. Ensure you have Java `11` or above installed in your Computer.
+
+2. Download the latest `FABook.jar` [here](https://github.com/AY2223S1-CS2103T-T10-2/tp/releases).
+
+3. Copy the file to the folder you want to use as the _home folder_ for your FABook.
+
+4. Double-click the file to start the app. The GUI similar to below should appear in a few seconds. Note how the app contains some sample data.<br>
+   ![Ui](images/Ui.png)
+
+5. Type the command in the command line and press Enter to execute it. e.g. typing **`help`** and pressing Enter will open the help window.<br>
+   Some example commands you can try:
+
+    * **`list`** : Lists all clients.
+
+    * **`create`**`n/John Doe p/98765432 a/John street, block 123, #01-01` : Adds a client named `John Doe` to your FABook.
+
+    * **`exit`** : Exits the app.
+
+6. Refer to the [Features](#features) below for details of each command.
+7. Refer to the [Command Summary](#command-summary) for a quick summary of all commands.
+
+[Return to Table of Contents](#table-of-contents)
+
+--------------------------------------------------------------------------------------------------------------------
+
+## Getting Familiar With Your User Interface
+
+![Ui Breakdown](images/UIBreakDown.png)
+
+1. **Menu Bar**: Access the file, help or upcoming meetings here.
+2. **Command Line**: Type in your commands here.
+3. **Command Display**: The execution of your commands appear here.
+4. **Result Display**: The result of your command execution appears here.
+5. **Contact Information**: The full contact information of a client appears here.
+6. **Data Storage**: This is where the data is stored and loaded from.
+
+[Return to Table of Contents](#table-of-contents)
+
+<div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
 
