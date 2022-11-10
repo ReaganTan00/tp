@@ -83,6 +83,8 @@ learning to use FABook! However, feel free to jump to any particular section usi
 
 [Return to Table of Contents](#table-of-contents)
 
+<div style="page-break-after: always;"></div>
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## Getting Familiar With Your User Interface
