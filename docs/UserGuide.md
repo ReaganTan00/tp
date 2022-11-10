@@ -18,9 +18,10 @@ This user guide will help you get started and understand how FABook can **seamle
 * TOC
 {:toc}
 
+--------------------------------------------------------------------------------------------------------------------
+
 <div style="page-break-after: always;"></div>
 
---------------------------------------------------------------------------------------------------------------------
 ## How to use this guide?
 
 ### Organisation
@@ -83,9 +84,9 @@ learning to use FABook! However, feel free to jump to any particular section usi
 
 [Return to Table of Contents](#table-of-contents)
 
-<div style="page-break-after: always;"></div>
-
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## Getting Familiar With Your User Interface
 
@@ -100,9 +101,9 @@ learning to use FABook! However, feel free to jump to any particular section usi
 
 [Return to Table of Contents](#table-of-contents)
 
-<div style="page-break-after: always;"></div>
-
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## Features
 
